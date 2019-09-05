@@ -7,7 +7,7 @@
     android:layout_height="wrap_content">
 
     <androidx.appcompat.widget.AppCompatImageView
-        android:id="@+id/ivImageItem"
+        android:id="@+id/ivImageUser"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:scaleType="centerCrop"

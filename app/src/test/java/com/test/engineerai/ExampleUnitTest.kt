@@ -1,4 +1,4 @@
-package comtest.engineerai
+package com.test.engineerai
 
 import org.junit.Test
 
